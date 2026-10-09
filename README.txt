@@ -1,5 +1,9 @@
 BUỔI THỰC HÀNH 1: LẬP TRÌNH PYTHON VỚI MQTT
 
+Thành viên nhóm:
+Hoàng Anh Minh - B23DCCN544
+Nguyễn Ngọc Vinh - B23DCCN935
+
 **1. MÔI TRƯỜNG**
 
 - Python 3.x
